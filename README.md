@@ -1,1 +1,1 @@
-# dam-management
+This is a web application designed to maintain real-time information regarding dams. It enables users to perform basic CRUD (Create, Read, Update, Delete) operations on the data to keep the information up-to-date. Additionally, the application can alert users when the water level of a dam crosses the danger level.
